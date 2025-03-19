@@ -1,6 +1,6 @@
 # Node public repo Hello World subscribe to my channel , thanks you
 
-Simple node.js app that servers  "Welcome Kartikeyan & Credit with Thanks to - A Monk in Cloud"
+Simple node.js app that servers  "Welcome Kartikeyan& Credit with Thanks to - A Monk in Cloud"
 
 Great for testing simple deployments on Cloud
 
